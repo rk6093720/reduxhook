@@ -1,0 +1,19 @@
+.btn{
+    color: whitesmoke;
+    border-radius: 2px;
+    cursor: pointer;
+   
+}
+.red {
+    background-color: aqua;
+}
+.green{
+    background-color: blanchedalmond;
+
+}
+.bordered{
+    border:2px solid black;
+}
+.ghost {
+    border:none;
+}
